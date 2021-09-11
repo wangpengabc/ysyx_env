@@ -1,0 +1,18 @@
+[submodule "abstract-machine"]
+	path = abstract-machine
+	url = https://github.com/wangpengabc/abstract-machine.git
+[submodule "am-kernels"]
+	path = am-kernels
+	url = https://github.com/NJU-ProjectN/am-kernels.git
+[submodule "NEMU"]
+	path = NEMU
+	url = https://github.com/OpenXiangShan/NEMU.git
+[submodule "rt-thread"]
+	path = rt-thread
+	url = https://github.com/OSCPU/rt-thread.git
+[submodule "ysyxSoC"]
+	path = ysyxSoC
+	url = https://github.com/OSCPU/ysyxSoC.git
+[submodule "DRAMsim3"]
+	path = DRAMsim3
+	url = https://github.com/OpenXiangShan/DRAMsim3.git
